@@ -32,14 +32,22 @@
 # Author:     	Petra Burdejova, 2015/05/26
 # ------------------------------------------------------------------------------
 
+rm(list = ls(all = TRUE))
+graphics.off()
 
-# First, run Data_load_typhoones.R or Data_load_hurricanes.R 
-# to obtain object#	compute characteristics P and beta_reg_lambda
+## install and load packages
+libraries = c(“fda”, “fda.usc”, “expectreg”)
+lapply(libraries, function(x) if (!(x %in% installed.packages())) {
+    install.packages(x)
+})
+lapply(libraries, library, quietly = TRUE, character.only = TRUE)
 
-#load libraries
-library(fda)
-library(fda.usc)
-library(expectreg)
+# Set working directory
+# setwd("")
+
+#
+source(“Data_load_hurricanes.R”)
+
 
 #compute squared norm
 mu_hat			= vector(mode='list', length=64)
@@ -47,7 +55,7 @@ mu_tilda		= vector(mode='list', length=64)
 P_mtx			= vector(mode='list', length=64)
 P2_mtx			= vector(mode='list', length=64)
 P_int			= vector(mode='list', length=64)
-P_int_as_matrix = matrix(nrow=64, ncol=9)
+P_int_as_matrix = matrix(nrow = 64, ncol = 9)
 
 for (k in 1:64){
  	mu_hat_k   = mat.or.vec(nr=1460,nc=9)
