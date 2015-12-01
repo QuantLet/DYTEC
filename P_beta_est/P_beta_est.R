@@ -1,37 +1,3 @@
-# ------------------------------------------------------------------------------
-# Book:       	P. Burdejova, W.K. Härdle, P.Kokoszka and Q.Xiong
-#               "Change point and trend analyses of annual expectile curves of
-#			     tropical storms" (2015)
-# ------------------------------------------------------------------------------
-# Quantlet:   	P_beta_est.R
-# ------------------------------------------------------------------------------
-# Description:	Plot the squared norms of normalized differences of mean
-#				functions for expectile curves of hurricanes for different
-#				levels of tau. Plot the norm of estimated slope functions beta 
-#				of hurricane data and plot the estimated beta functions.
-# ------------------------------------------------------------------------------
-# Datafile:     Hurricanes.csv
-# ------------------------------------------------------------------------------
-# See also:     data_load_hurricanes.R, chp_test.R
-# ------------------------------------------------------------------------------
-# Keywords:     squared norm, curves, expectile, time varying, slope, beta, 
-#				hurricanes
-# ------------------------------------------------------------------------------
-# Usage:      	-
-# ------------------------------------------------------------------------------
-# Inputs:     	-
-# ------------------------------------------------------------------------------
-# Output:     	Plot of squared norm of estimated slope beta functions. Plot 
-# 				estimated beta functions for upper expectiles. Plot 
-#				P differences for tau = 0.1, 0.5 and 0.9.
-# ------------------------------------------------------------------------------
-# Example:      Plot of squared norm of estimated slope beta 
-#				functions for hurricane data. Plot estimated beta functions for
-# 				upper expectiles. Plot P differences for tau = 0.1, 0.5 and 0.9.
-# ------------------------------------------------------------------------------
-# Author:     	Petra Burdejova, 2015/05/26
-# ------------------------------------------------------------------------------
-
 rm(list = ls(all = TRUE))
 graphics.off()
 
