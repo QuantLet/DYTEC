@@ -1,0 +1,23 @@
+
+Name of Quantlet: data_load_hurricanes
+
+Published in: DYTEC
+
+Description: 'Load original hurricane data, adjust data (order, missing values, 
+delete zeros), compute and plot annual expectile curves'
+
+Keywords: data adjustment, hurricane, expectile, curves, tropical storms
+
+See also: P_beta_est.R
+
+Author: Burdejova P.
+
+Submitted:  
+
+Datafile: Hurricanes.csv
+
+Input: 
+
+Output:  list of expectile curves, plot of annual expectile curves
+
+Example: Annual hurricane expectile curves for year 2005
