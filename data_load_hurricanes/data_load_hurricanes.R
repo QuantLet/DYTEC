@@ -1,30 +1,3 @@
-# ------------------------------------------------------------------------------
-# Book:       	P. Burdejova, W.K. Härdle, P.Kokoszka and Q.Xiong
-#               "Change point and trend analyses of annual expectile curves of
-#			     tropical storms" (2015)
-# ------------------------------------------------------------------------------
-# Quantlet:   	data_load_hurricanes.R
-# ------------------------------------------------------------------------------
-# Description:	Load original hurricane data, adjust data (order, missing values,
-#				delete zeros), compute and plot annual expectile curves
-# ------------------------------------------------------------------------------
-# Datafile:     Hurricanes.csv
-# ------------------------------------------------------------------------------
-# See also:     chp_test.R, P_beta_est.R
-# ------------------------------------------------------------------------------
-# Keywords:     data adjustment, hurricane, expectile, curves, tropical storms
-# ------------------------------------------------------------------------------
-# Usage:      	chp_test.R, P_beta_est.R
-# ------------------------------------------------------------------------------
-# Inputs:     	-
-# ------------------------------------------------------------------------------
-# Output:     	list of expectile curves, plot of annual expectile curves
-# ------------------------------------------------------------------------------
-# Example:      Annual hurricane expectile curves for year 2005
-# ------------------------------------------------------------------------------
-# Author:     	Petra Burdejova, 2015/05/26
-# ------------------------------------------------------------------------------
-
 
 #set main directory
 mainDir = "/Users/..."
