@@ -7,7 +7,7 @@ point and trend analyses of annual expectile curves of tropical storms'
 Description: 'Load original hurricane data, adjust data (order, missing values, 
 delete zeros), compute and plot annual expectile curves'
 
-Keywords: data adjustment, hurricane, expectile, curves, tropical storms
+Keywords: data adjustment, hurricane, expectile, curve, tropical storms
 
 See also: P_beta_est.R
 
