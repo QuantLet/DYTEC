@@ -19,6 +19,6 @@ Submitted:
 
 Datafile: Hurricanes.csv
 
-Example: 'Plot of squared norm of estimated slope beta functions. Plot 
-estimated beta functions for upper expectiles. Plot 
+Example: 'Plots of squared norm of estimated slope beta functions. Plots
+estimated beta functions for upper expectiles. Plots
 P differences for tau = 0.1, 0.5 and 0.9.'
