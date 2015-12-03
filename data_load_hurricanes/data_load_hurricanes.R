@@ -1,13 +1,15 @@
-#set main directory
-mainDir = "/Users/..."
-getwd()
-setwd(mainDir)
+rm(list = ls(all = TRUE))
+graphics.off()
 
-#load libraries
-library(expectreg)
-library(fields)
-library(plyr)
-library(fda)
+## install and load packages
+libraries = c(“fda”, “expectreg”, "fields", "plyr")
+lapply(libraries, function(x) if (!(x %in% installed.packages())) {
+    install.packages(x)
+})
+lapply(libraries, library, quietly = TRUE, character.only = TRUE)
+
+# Set working directory
+# setwd("")
 
 # read original data huricanes: 161 years (1851-2011)
 orig.data = read.csv("Hurricanes.csv", sep = ";", header = TRUE)
