@@ -15,9 +15,11 @@ of hurricane data and plots the estimated beta functions.'
 
 Keywords: squared norm, curve, expectile, time varying, slope, beta, hurricane
 
+Keywords[new]: DYTEC
+
 See also: data_load_hurricanes.R
 
-Author: Burdejova P.
+Author: Burdejova Petra
 
 Submitted:
 
