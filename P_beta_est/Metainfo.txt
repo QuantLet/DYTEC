@@ -15,7 +15,7 @@ Keywords[new]: DYTEC
 
 See also: data_load_hurricanes.R
 
-Author: Burdejova P.
+Author: Burdejova Petra
 
 Submitted:  
 
