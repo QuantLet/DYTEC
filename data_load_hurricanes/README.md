@@ -14,6 +14,8 @@ compute and plot annual expectile curves'
 
 Keywords: data adjustment, hurricane, expectile, curve, tropical storm
 
+Keywords[new]: DYTEC
+
 See also: P_beta_est.R
 
 Author: Burdejova Petra
