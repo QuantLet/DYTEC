@@ -13,9 +13,7 @@ Description: 'Plots the squared norms of normalized differences of mean function
 curves of hurricanes for differentlevels of tau.  Plots the norm of estimated slope functions beta
 of hurricane data and plots the estimated beta functions.'
 
-Keywords: squared norm, curve, expectile, time varying, slope, beta, hurricane
-
-Keywords[new]: DYTEC
+Keywords: squared norm, curve, expectile, time varying, slope, beta, hurricane, DYTEC
 
 See also: data_load_hurricanes.R
 
