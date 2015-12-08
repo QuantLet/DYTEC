@@ -16,7 +16,7 @@ Keywords: data adjustment, hurricane, expectile, curve, tropical storm
 
 See also: P_beta_est.R
 
-Author: Burdejova P.
+Author: Burdejova Petra
 
 Submitted:
 
