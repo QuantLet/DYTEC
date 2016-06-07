@@ -7,7 +7,7 @@ Description: 	'Simulate the data from standard normal distribution
 	      	and compute the tau-variance. Plot the tau-variance 
 	     	for different levels of tau.'
 
-Keywords: asymmetric norm, expectile, tau, variance
+Keywords: asymmetric norm, expectile, quantile, tau, variance, pca
 
 Author: Burdejova P.
 
