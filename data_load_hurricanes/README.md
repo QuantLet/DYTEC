@@ -7,7 +7,7 @@
 
 Name of Quantlet : data_load_hurricanes
 
-Published in : 'P. Burdejova, W.K. HÃ¤rdle, P.Kokoszka and Q.Xiong (2015): Change point and trend
+Published in : 'P. Burdejova, W.K. Härdle, P.Kokoszka and Q.Xiong (2015): Change point and trend
 analyses of annual expectile curves of tropical storms'
 
 Description : 'Loads original hurricane data, adjust data (order, missing values, delete zeros),
