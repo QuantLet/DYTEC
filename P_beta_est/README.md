@@ -7,7 +7,7 @@
 
 Name of Quantlet : P_beta_est
 
-Published in : 'P. Burdejova, W.K. HÃ¤rdle, P.Kokoszka and Q.Xiong (2015): Change point and trend
+Published in : 'P. Burdejova, W.K. Härdle, P.Kokoszka and Q.Xiong (2015): Change point and trend
 analyses of annual expectile curves of tropical storms'
 
 Description : 'Plots the squared norms of normalized differences of mean functions for expectile
