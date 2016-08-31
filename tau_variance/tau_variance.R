@@ -13,7 +13,7 @@ var_tau <- function(y, tau) {
     return(sum(wgt_mtx * (y - e_tau) * (y - e_tau))/nf)
 }
 
-# generate data
+# generate data for N(0,1)
 mu = 0
 sigma = 1
 n_obs = 10^6
