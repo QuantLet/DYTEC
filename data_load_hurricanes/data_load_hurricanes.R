@@ -2,7 +2,7 @@ rm(list = ls(all = TRUE))
 graphics.off()
 
 ## install and load packages
-libraries = c(“fda”, “expectreg”, "fields", "plyr")
+libraries = c("fda", "expectreg", "fields", "plyr")
 lapply(libraries, function(x) if (!(x %in% installed.packages())) {
     install.packages(x)
 })
