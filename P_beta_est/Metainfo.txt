@@ -15,7 +15,7 @@ See also: data_load_hurricanes.R
 
 Author: Burdejova Petra
 
-Submitted:  
+Submitted:  03.12.2015
 
 Datafile: Hurricanes.csv
 
