@@ -1,13 +1,9 @@
 
 Name of Quantlet: P_beta_est
 
-Published in: 'P. Burdejova, W.K. Härdle, P.Kokoszka and Q.Xiong (2015): Change
-point and trend analyses of annual expectile curves of tropical storms'
+Published in: 'P. Burdejova, W.K. Härdle, P.Kokoszka and Q.Xiong (2015): Change point and trend analyses of annual expectile curves of tropical storms'
 
-Description: 'Plots the squared norms of normalized differences of mean
-functions for expectile curves of hurricanes for differentlevels of tau. 
-Plots the norm of estimated slope functions beta of hurricane data and plots
-the estimated beta functions.'
+Description: 'Plots the squared norms of normalized differences of mean functions for expectile curves of hurricanes for differentlevels of tau. Plots the norm of estimated slope functions beta of hurricane data and plots the estimated beta functions.'
 
 Keywords: squared norm, curve, expectile, time varying, slope, beta, hurricane, DYTEC
 
@@ -19,6 +15,4 @@ Submitted:  03.12.2015
 
 Datafile: Hurricanes.csv
 
-Example: 'Plots of squared norm of estimated slope beta functions. Plots
-estimated beta functions for upper expectiles. Plots
-P differences for tau = 0.1, 0.5 and 0.9.'
+Example: 'Plots of squared norm of estimated slope beta functions. Plots estimated beta functions for upper expectiles. Plots P differences for tau = 0.1, 0.5 and 0.9.'
