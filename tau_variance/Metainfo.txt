@@ -8,4 +8,4 @@ Keywords: asymmetric, norm, expectile, quantile, tau, variance, pca
 
 Author: Burdejova P.
 
-Submitted:  20160607 by Burdejova P.
+Submitted:  2016.06.07 
