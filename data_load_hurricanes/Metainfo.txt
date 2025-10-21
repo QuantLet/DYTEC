@@ -1,11 +1,9 @@
 
 Name of Quantlet: data_load_hurricanes
 
-Published in: 'P. Burdejova, W.K. Härdle, P.Kokoszka and Q.Xiong (2015): Change
-point and trend analyses of annual expectile curves of tropical storms'
+Published in: 'P. Burdejova, W.K. Härdle, P.Kokoszka and Q.Xiong (2015): Changepoint and trend analyses of annual expectile curves of tropical storms'
 
-Description: 'Loads original hurricane data, adjust data (order, missing values, 
-delete zeros), compute and plot annual expectile curves'
+Description: 'Loads original hurricane data, adjust data (order, missing values, delete zeros), compute and plot annual expectile curves'
 
 Keywords: data adjustment, hurricane, expectile, curve, tropical storm, DYTEC
 
@@ -13,11 +11,9 @@ See also: P_beta_est.R
 
 Author: Burdejova Petra
 
-Submitted:  
+Submitted:  03.12.2015
 
 Datafile: Hurricanes.csv
-
-Input: 
 
 Output:  list of expectile curves, plot of annual expectile curves
 
