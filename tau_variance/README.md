@@ -5,8 +5,6 @@
 </div>
 
 ```
-﻿Name of Quantlet: tau_variance
-
 Published in: Tran N., Osipenko M., Härdle W. (2014): Principal Component Analysis in Asymmetric Norm
 
 Description: Simulate the data from standard normal distribution and compute the tau-variance. Plot the tau-variance for different levels of tau.
